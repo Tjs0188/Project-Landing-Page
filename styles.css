@@ -1,0 +1,21 @@
+.flex-container {
+    display: flex;
+  
+    /* flex-direction: column; */
+  }
+.darkgray {
+    background-color: rgb(33, 34, 34);
+}
+.lightgray {
+    background-color: dimgrey;
+}
+.center {
+    justify-content: center;
+    align-items: center;
+}
+.boxes {
+    width: 60px;
+    height:60px;
+    border: 6px;
+    border-color: blue;
+}
