@@ -26,3 +26,6 @@
 .rounded {
     border-radius: 4px;
 }
+button:hover {
+    background-color: blueviolet;
+}
