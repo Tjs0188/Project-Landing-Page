@@ -37,6 +37,8 @@ button:hover {
     border-radius: 4px;
 }
 
-html {
-    font-style: hero;
+.heromain {
+    font-size: 48px;
+    font-weight: 900;
 }
+
